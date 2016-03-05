@@ -9,3 +9,4 @@ distribute-*
 # Test files
 .tox/
 venv
+output
