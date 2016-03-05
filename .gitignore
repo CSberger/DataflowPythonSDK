@@ -8,3 +8,4 @@ distribute-*
 
 # Test files
 .tox/
+venv
